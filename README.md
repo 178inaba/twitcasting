@@ -1,1 +1,5 @@
 # twitcasting
+
+## License
+
+[MIT](LICENSE)
